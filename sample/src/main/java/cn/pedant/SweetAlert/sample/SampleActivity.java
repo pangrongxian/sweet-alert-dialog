@@ -9,7 +9,7 @@ import cn.pedant.SweetAlert.SweetAlertDialog;
 
 public class SampleActivity extends Activity implements View.OnClickListener {
 
-    private int i = -1;
+    private int i = -1;//运行流畅
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
