@@ -3,8 +3,14 @@
           package="cn.pedant.SweetAlert.sample"
           android:versionCode="1"
           android:versionName="1.0">
-    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="17"/>
-    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:theme="@android:style/Theme.NoTitleBar">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23"/>
+
+
+    <application
+        android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@android:style/Theme.NoTitleBar">
+
         <activity android:name=".SampleActivity"
                   android:label="@string/app_name">
             <intent-filter>

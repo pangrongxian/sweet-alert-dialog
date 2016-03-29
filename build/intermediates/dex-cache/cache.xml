@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_be9c50ad3bb80d261b680414ed6d8984fa15c640.jar" />
+    </item>
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_e4ce95df535cb26369540618a6a12985e5961997.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_269a5b4cccfe45bb5e64ef69445198e79ce4f2f8.jar" />
+    </item>
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7cc0e9da56f928a92df0c84eb30eb23a8541dcc8">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\instant-run_779dc569c2c4ab2761cf66b22cd99ad06ca9fe5b.jar" />
+    </item>
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_0733d36f3d0089c8cef3501e6ecd5ff2c894b052.jar" />
+    </item>
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_d972c00170b3ef5ee5134fa49349c0d16e474dff.jar" />
+    </item>
+    <item
+        jar="E:\git_code\sweet-alert-dialog\sample\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff46aa609dde3fecaa8e74222226d06d6917fa76">
+        <dex dex="E:\git_code\sweet-alert-dialog\sample\build\intermediates\pre-dexed\debug\classes_ebebc8523ff5ac8ad7c1826c6ab72d2831150ca6.jar" />
+    </item>
+
+</items>
